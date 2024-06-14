@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/walahm1">
+                    <img src="https://avatars.githubusercontent.com/u/171918298?v=4" width="100px;" alt="Waleed Ahmad"/>
+                    <br />
+                    <sub><b>Waleed Ahmad</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
